@@ -1,2 +1,2 @@
 # php-blog
-A php blog made in a custom MVC framework
+A php blog made in my personal MVC framework
